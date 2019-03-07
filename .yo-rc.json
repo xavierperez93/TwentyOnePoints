@@ -1,0 +1,38 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.soluxafrica.health",
+            "nativeLanguage": "fr"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "TwentyOnePoints",
+        "packageName": "com.soluxafrica.health",
+        "packageFolder": "com/soluxafrica/health",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": true,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "postgresql",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": "elasticsearch",
+        "messageBroker": false,
+        "serviceDiscoveryType": "eureka",
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "NTViMDk0YjhkMmYwM2UwYzNkODQwMTE1ZmJkODA1ZWE5M2JjMGFiMTdkY2Q2NDZhMGE1MTVhZGJiZWRjNmZmNDY1ZTlhY2I2NGY0OGRkMmIwNmY1OTNjMTE2NjJmYjY4NTg3YmJiZmE1ZGY3ZGY1Y2NmOTM0ZjZiMTg1M2I5YjY=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": ["gatling", "protractor"],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": true,
+        "nativeLanguage": "fr",
+        "languages": ["fr", "en"]
+    }
+}
